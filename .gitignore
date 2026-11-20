@@ -1,0 +1,12 @@
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfplan
+# python
+__pycache_  _/
+*.pyc
+venv/
+.env
+
+# macOS
+.DS_Store
